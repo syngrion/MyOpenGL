@@ -1,0 +1,11 @@
+﻿  EBO.cpp
+  Main.cpp
+  shaderClass.cpp
+  stb.cpp
+  Texture.cpp
+  VAO.cpp
+G:\Programming\source\repos\MyOpenGL\VAO.cpp(11,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  Generating Code...
+  glad.c
+  MyOpenGL.vcxproj -> G:\Programming\source\repos\MyOpenGL\x64\Debug\MyOpenGL.exe

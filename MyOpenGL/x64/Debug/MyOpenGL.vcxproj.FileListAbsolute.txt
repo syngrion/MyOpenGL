@@ -1,0 +1,2 @@
+C:\Users\Admin\Programming\source\repos\MyOpenGL\x64\Debug\MyOpenGL.exe
+G:\Programming\source\repos\MyOpenGL\x64\Debug\MyOpenGL.exe
